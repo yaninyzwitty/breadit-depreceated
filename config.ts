@@ -1,0 +1,1 @@
+export const infinite_scroling_pagination_results = 2;
